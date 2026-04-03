@@ -2,7 +2,7 @@
 
 
 
-The files in this repository were moved to the [SPOCTT](https://github.com/AllenInstitute/SPOCTT) repository. Most recent updates will be found there.
+04/02/2026 Update: The files in this repository were moved to the [SPOCTT](https://github.com/AllenInstitute/SPOCTT) repository under ABCAtlas\_UseCases. Check SPOCTT for updates, this repository will no longer be updated.
 
 
 
